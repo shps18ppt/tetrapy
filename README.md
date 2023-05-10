@@ -1,3 +1,4 @@
 # tetrapy
-An Tetris game coded on pygame.
-This game is still work in progress, follow updates on https://twitter.com/shps18ppt
+A Tetris game made with pygame. Please credit when you fork it!
+
+Find web version on (https://replit.com/@shps18ppt?path=)
